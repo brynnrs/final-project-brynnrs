@@ -3,9 +3,9 @@
 ## **My Project Proposal**
 
 ### **Build Concept & Reasoning:**
-Life gets busy. And as a parent of young children, you've got to juggle your responsibilities along with theirs. As if getting them to school and all of their appointments wasn't enough, you also need to help them manage their time, remember to do their homework, teach them to clean up after themselves... and the list goes on and on. So even though you love them and are willing to do anything for them, remembering it all is near impossible and there *will* be things forgotten...like required reading. 
+Life gets busy. And as a parent of young children, you've got to juggle your responsibilities along with theirs. As if getting them to school and all of their appointments wasn't enough, you also need to help them manage their time, remember to do their homework, teach them to clean up after themselves... and the list goes on and on. So even though you love them and are willing to do anything for them, remembering it all is near impossible, and there *will* be things forgotten...like required reading. 
 
-As a single parent I, too, struggle to stay on top of all of the little things that can so easily fall to the wayside in the daily hustle. At first, it isn't that big of a deal if they forget to read or turn in their tracking sheets. After all, they're still learning their ABC's! But eventually they'll be at the age where they're held accountable for reading, exercising, and tracking these activities. Which means? You guessed it! Mom or Dad gets to do it. If only there was something that could help...
+As a single parent, I, too, struggle to stay on top of all the little things that can easily fall by the wayside in the daily hustle. At first, it isn't that big of a deal if they forget to read or turn in their tracking sheets. After all, they're still learning their ABCs! But eventually, they'll be at the age where they're held accountable for reading, exercising, and tracking these activities. Which means? You guessed it! Mom or Dad gets to do it. If only there was something that could help...
 
 My Children's Daily Reading and Activity Tracker will be a web app that tracks daily reading time, book titles read, reading method (independent or with help), and exercise minutes for children. It will provide an easy way to quickly log details each day, view weekly summaries, create monthly reports, and even set reminders to read and/or track. Additionally, there will be visual progress indicators and celebratory pop-ups when milestones or goals are met to keep children involved and excited. This will make it easier for parents to complete school forms at the end of each week or month and encourage children to stay engaged with their goals.
 
@@ -52,22 +52,20 @@ My Children's Daily Reading and Activity Tracker will be a web app that tracks d
   - [ ] Implement code to store entries using local storage.
 
 ### **By Nov 20 (45% Complete)**
-**Progress Indicators**
-  - [ ] Build weekly progress bars for reading and exercise time.
-
-  - [ ] Add fun alerts for milestones/goals.
-
-### **By Nov 23 (60% Complete)**
-**Reminders and Notifications**
-  - [ ] Implement notifications or reminders to enter the day’s information.
-  - [ ] Make reminders adjustable based on user preference (e.g., evening vs. afternoon reminders).
-
-### **By Nov 26 (75% Complete)**
 **Weekly Summary, Monthly Report, and Export Options**
   - [ ] Add button to summarize weekly data with totals for reading minutes, exercise minutes, and book count.
-  - [ ] Implement an option to export monthly report as PDFs or JPEG.
-  - [ ] Write conditional logic to add a star or check mark each day that logging is complete.
+  - [ ] Implement an option to export monthly report as CSV file (or render a page to print).
 
+### **By Nov 23 (60% Complete)**
+**Progress Indicators**
+  - [ ] Write conditional logic to add a star or check mark on each day that logging is completed.
+  - [ ] Build weekly progress bars for reading and exercise time.
+
+### **By Nov 26 (75% Complete)**
+**Reminders and Notifications**
+  - [ ] Add fun alerts for milestones/goals.
+  - [ ] Implement notifications or reminders to enter the day’s information.
+  - [ ] Make reminders adjustable based on user preference (e.g., evening vs. afternoon reminders).
 
 ### **By Dec 4 (90% Complete)**
 **Final Testing and Polishing**
